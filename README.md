@@ -17,7 +17,7 @@ Only high-quality variants were retained for downstream filtering.
 
 
 
-# 1. Abstract
+# Abstract
 - Advances in next-generation sequencing (NGS) technologies have greatly facilitated efforts to identify the genetic causes of rare diseases. In particular, analyses based on trio samples consisting of a patient and both parents provide an effective strategy for detecting causal variants associated with autosomal dominant disorders. However, prioritizing candidate variants consistent with an autosomal dominant inheritance pattern from trio-based VCF files requires multiple analytical steps, including variant quality filtering, evaluation of population allele frequencies, and genotype comparison among family members. These procedures can be technically demanding and time-consuming when performed manually by researchers.
  To address these challenges, we developed an automated analysis pipeline that identifies candidate variants associated with autosomal dominant rare diseases using trio VCF files as input. The pipeline sequentially performs variant quality filtering and rare variant prioritization, and subsequently identifies variants that are present in the patient in a heterozygous state and are either inherited from one or both parents or arise de novo.
  This approach enables the systematic and reproducible identification of candidate variants underlying autosomal dominant rare diseases. The pipeline aims to reduce the analytical burden on researchers while improving the efficiency and accuracy of variant discovery.
