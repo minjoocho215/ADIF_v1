@@ -1,0 +1,2 @@
+# ADIF_v1
+Autosomal_Dominant_Inherited_finder
