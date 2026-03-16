@@ -25,6 +25,11 @@ Only high-quality variants were retained for downstream filtering.
 
 
 
+# Workflow
+![workflow](ADIF_github.png)
+
+
+
 # Filtering Strategy
 1. Quality Filtering
 Initial variant filtering was applied to both datasets:
