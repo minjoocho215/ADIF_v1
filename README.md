@@ -35,7 +35,7 @@ GQ ≥ 99
 2. Chromosome Filtering
 Variants located on chromosome Y were removed.
 
-Candidate Cohort Filtering (n = 22)
+Candidate Cohort Filtering (n = 6)
 Step 1 — Autosomal Dominant Inheritance Filtering
 Variants consistent with an autosomal dominant inheritance model were retained.
 
