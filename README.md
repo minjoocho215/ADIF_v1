@@ -45,13 +45,13 @@ Step 1 — Autosomal Dominant Inheritance Filtering
 Variants consistent with an autosomal dominant inheritance model were retained.
 
 Step 2 — Population Frequency Filtering
-Variants with allele frequency ≥ 0.05 in gnomAD East Asian (EAS) population were excluded.
+Variants with allele frequency ≥ 0.0001 in gnomAD East Asian (EAS) population were excluded.
 
-Step 3 — Functional Filtering
-Only coding variants were retained.
+Step 3 — Clinical Annotation Filtering
+Variants annotated as CADD < 20, REVEL < 0.5, and AM < 0.564 were removed.
 
-Step 4 — Clinical Annotation Filtering
-Variants annotated as Benign in ClinVar were removed while retaining variants with PASS status.
+Step 4 — Functional Filtering
+Only coding/splice variants were retained.
 
 
 
