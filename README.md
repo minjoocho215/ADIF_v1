@@ -26,7 +26,7 @@ Only high-quality variants were retained for downstream filtering.
 
 
 # Workflow
-![workflow](ADIF_github.png)
+![workflow](ADIF_github_edit.png)
 
 
 
